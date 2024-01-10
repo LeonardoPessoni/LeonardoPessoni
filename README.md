@@ -14,7 +14,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Sobre mim</summary>
 
   - 💬Tenho 25 anos, atualmente moro no Brasil. Me apaixonei por tecnologia desde pequeno e com o tempo fui buscando conhecimento sobre ela.
 
