@@ -24,7 +24,7 @@
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo_pessoni/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-pessoni-61a83722a/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5516999743703&text=Ol%C3%A1,%20LeonardoPessoni&app_absent=0)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5516999743703&text=Ol%C3%A1,%20Leonardo+Pessoni&app_absent=0)
 
 <!-- GithubStats -->
 ![LeonardoPessoni GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoPessoni&show_icons=true&theme=gotham)
