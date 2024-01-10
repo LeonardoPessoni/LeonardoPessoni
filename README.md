@@ -5,7 +5,7 @@
 
 <!-- Presentation -->
 <p>
-   Olá 👋, sou Leonardo! Sou apaixonado por tecnologia.
+   Sou apaixonado por tecnologia.
 
   - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the - badge&logo=edx&logoColor=white" />
 
