@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬Tenho 25 anos, atualmente moro no Brasil. Me apaixonei por tecnologia desde pequeno e com o tempo fui buscando conhecimento sobre ela.
+  - 💬Tenho 26 anos, atualmente moro no Brasil. Me apaixonei por tecnologia desde pequeno e com o tempo fui buscando conhecimento sobre ela.
 
   - ⚡Gosto de ler, seja um bom livro, além de assistir filmes, jogar e praticar esportes, principalmente futebol! Acredito que os nossos interesses pessoais contribuem para uma percepção mais precisa das coisas e para a resolução de problemas. \O/
 </details>
@@ -31,6 +31,7 @@
 
 <!-- Portfolio -->
 ## Portfólio:
+- [React - Seribit](https://github.com/LeonardoPessoni/seribit)
 - [JavaScript - Geolocation Application](https://github.com/LeonardoPessoni/App_Geolocalizacao)
 - [Python - Criando Rotas](https://github.com/LeonardoPessoni/TPweb)
 
